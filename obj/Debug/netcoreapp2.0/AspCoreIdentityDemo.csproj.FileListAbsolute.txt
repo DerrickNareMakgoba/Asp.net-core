@@ -1,0 +1,11 @@
+C:\Users\Derrick\source\repos\D1\D1\bin\Debug\netcoreapp2.0\AspCoreIdentityDemo.deps.json
+C:\Users\Derrick\source\repos\D1\D1\bin\Debug\netcoreapp2.0\AspCoreIdentityDemo.runtimeconfig.json
+C:\Users\Derrick\source\repos\D1\D1\bin\Debug\netcoreapp2.0\AspCoreIdentityDemo.runtimeconfig.dev.json
+C:\Users\Derrick\source\repos\D1\D1\bin\Debug\netcoreapp2.0\AspCoreIdentityDemo.dll
+C:\Users\Derrick\source\repos\D1\D1\bin\Debug\netcoreapp2.0\AspCoreIdentityDemo.pdb
+C:\Users\Derrick\source\repos\D1\D1\obj\Debug\netcoreapp2.0\AspCoreIdentityDemo.csprojResolveAssemblyReference.cache
+C:\Users\Derrick\source\repos\D1\D1\obj\Debug\netcoreapp2.0\AspCoreIdentityDemo.csproj.CoreCompileInputs.cache
+C:\Users\Derrick\source\repos\D1\D1\obj\Debug\netcoreapp2.0\AspCoreIdentityDemo.AssemblyInfoInputs.cache
+C:\Users\Derrick\source\repos\D1\D1\obj\Debug\netcoreapp2.0\AspCoreIdentityDemo.AssemblyInfo.cs
+C:\Users\Derrick\source\repos\D1\D1\obj\Debug\netcoreapp2.0\AspCoreIdentityDemo.dll
+C:\Users\Derrick\source\repos\D1\D1\obj\Debug\netcoreapp2.0\AspCoreIdentityDemo.pdb
